@@ -8,4 +8,5 @@ class UserServiceKotlinApplication
 
 fun main(args: Array<String>) {
 	runApplication<UserServiceKotlinApplication>(*args)
+	println("hello world")
 }
